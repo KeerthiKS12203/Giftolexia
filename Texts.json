@@ -1,0 +1,14 @@
+{
+    "Name":"To read texts",
+    "Type":"Tongue Twisters",
+    "Texts":[
+        {
+            "id":1,
+            "text":"She was selling sea shells on the sea shore"
+        },
+        {
+            "id":2,
+            "text":"Betty bought butter, butter was bitter, Betty bought some more butter to make the bitter butter better"
+        }
+    ]
+}
